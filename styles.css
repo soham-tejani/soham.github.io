@@ -690,7 +690,7 @@ body{
     }
     
     .portfolio_card{
-        height: 400px;
+        height: auto;
         width: 100%;
         display: flex;
         align-items: center;
